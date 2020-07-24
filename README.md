@@ -1,4 +1,6 @@
-![Hey there, I'm Chieh.](./Chiehgithubuse%20GIF-downsized_large.gif)
+<p align="center">
+  <img src="https://github.com/chiehpower/chiehpower/blob/master/Chiehgithubuse%20GIF-downsized_large.gif?raw=true" />
+</p>
 
 <!--
 **chiehpower/chiehpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
