@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chiehpower/chiehpower/blob/master/chieh.gif?raw=true" />
+  <img src="https://github.com/chiehpower/chiehpower/blob/master/chieh_2.gif?raw=true" />
 </p>
 
 
