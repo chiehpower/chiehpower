@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/chiehpower/chiehpower/blob/master/Chiehgithubuse%20GIF-downsized_large.gif?raw=true" />
+  <img src="https://github.com/chiehpower/chiehpower/blob/master/chieh.gif?raw=true" />
 </p>
+
 
 <!--
 **chiehpower/chiehpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
